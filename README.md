@@ -6,3 +6,4 @@ We used React, Node.js, Next.js, Boostrap, and Vercel for deployment.
 
 Check it out here: mycompostjourney.vercel.app.
 
+update
